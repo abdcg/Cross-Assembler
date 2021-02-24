@@ -1,0 +1,30 @@
+ br.i5 Label 
+Label 
+ halt ;this is a comment
+ pop
+ dup
+ .cstring hello
+ exit
+ ret
+ not
+ or 
+ br.i5 Label 
+ xor
+ neg
+ inc
+ dec
+ add
+ sub
+ mul
+ div
+ rem
+ shl
+ shr
+ teq
+ tne
+ tlt
+ tgt
+ tle 
+ tge 
+ halt 
+ ldc.i3 1

@@ -1,0 +1,3 @@
+Test Position
+n1: [1,2] n2: Mnemonic [opCode=2, name=add] n3: Mnemonic [opCode=2, name=add]
+n1: [1,2] n2: Mnemonic [opCode=2, name=add] n3: Mnemonic [opCode=2, name=add]
